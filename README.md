@@ -38,7 +38,9 @@
 
   ## License
   &copy; 2022 by Kayla Backus
+
   This project is licensed under the MIT license.
+
   [License: MIT License](https://opensource.org/licenses/MIT)
 
   ## Contributing 
@@ -46,9 +48,9 @@
   
   ## Tests
   Since the result of this project (the README file) is built using Node.js and the CLI, in order to test if the functions are working, open the README.md file included with the project and open the preview window in VS Code.
-  [A window in VS code is open, and a pink circle is around an icon in the upper right corner. The icon looks like a small magnifying glass against a rectangle.](images/screenshot-3)
+  ![A window in VS code is open, and a pink circle is around an icon in the upper right corner. The icon looks like a small magnifying glass against a rectangle.](images/screenshot-3)
 
-  [The source code window and the preview window are open side-by-side on the screen.](images/screenshot-4)
+  ![The source code window and the preview window are open side-by-side on the screen.](images/screenshot-4)
 
   ## Questions 
   [github.com/kaylab78](https://github.com/kaylab78)
