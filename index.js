@@ -74,7 +74,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'Write the installation instructions for your project. (Required)',
+        message: 'Whate are the installation instructions for your project? (Required)',
         validate: installationInput => {
             if (installationInput) {
                 return true;
@@ -141,7 +141,7 @@ function init() {
     return inquirer.prompt(questions)
     .then(data => {
         writeToFile('README.md', generateMarkdown(data));
-        // console.log("Success");
+        console.log("Success!");
     })
 }
 
