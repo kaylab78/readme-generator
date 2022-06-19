@@ -1,9 +1,9 @@
 
-  # undefined
+  # Hello World!
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  undefined
+  Describe it in detail.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,23 +14,23 @@
   - [Quesitons](#questions)
 
   ## Installation 
-  undefined
+  Install carefully.
 
   ## Usage 
-  undefined
+  Don't be afraid to use it.
 
   ## License
-  &copy; 2022 by Kayla
-  
-    This project is licensed under the MIT license.
+  &copy; 2022 by Name
+  This project is licensed under the MIT license.
   [License: MIT License](https://opensource.org/licenses/MIT)
 
   ## Contributing 
-  undefined
+  Contribute, if you want.
   
   ## Tests
-  undefined
+  Test carefully.
 
   ## Questions 
-  [github.com/undefined](https://github.com/undefined)
-  [Email me](undefined) with additional questions.
+  [github.com/username](https://github.com/username)
+  
+  [Email me](email) with additional questions.

@@ -30,8 +30,7 @@ function renderLicenseSection(license) {
   if (license === 'None') {
     return ""
   } else {
-    return `
-    This project is licensed under the ${license} license.`
+    return `This project is licensed under the ${license} license.`
   }
 }
 
@@ -71,6 +70,7 @@ function generateMarkdown(data) {
 
   ## Questions 
   [github.com/${data.username}](https://github.com/${data.username})
+  
   [Email me](${data.email}) with additional questions.
 `;
 };
