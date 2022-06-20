@@ -4,7 +4,7 @@
   ## Description
   This is a README.md file generator. Using the command line interface, the user answers questions about their project, which are printed to a README.md file.
   
-  To view a walkthrough video, [click here](https://drive.google.com/file/d/1hjJinSwMrtVS-yPN8BfwnsUI9xUfimOc/view?usp=sharing).
+  To view a walkthrough video, [click here](https://drive.google.com/file/d/1U0VeICmo9BY_nri80eM1BINggOqf4Ira/view?usp=sharing).
 
   ## Table of Contents
   - [Installation](#installation)
