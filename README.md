@@ -12,6 +12,7 @@
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
+  - [Credits](#credits)
   - [Questions](#questions)
 
   ## Installation 
