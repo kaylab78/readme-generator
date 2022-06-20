@@ -55,7 +55,9 @@ function generateMarkdown(data) {
 
   ## License
   &copy; ${new Date().getFullYear()} by ${data.name}
+
   ${renderLicenseSection(data.license)}
+  
   ${renderLicenseLink(data.license)}
 
   ## Contributing 
@@ -67,7 +69,7 @@ function generateMarkdown(data) {
   ## Questions 
   [github.com/${data.username}](https://github.com/${data.username})
   
-  [Email me](${data.email}) with additional questions.
+  [Email me](mailto:${data.email}) with additional questions.
 `;
 };
 
