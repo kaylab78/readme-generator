@@ -54,5 +54,12 @@
 
   ![The source code window and the preview window are open side-by-side on the screen.](images/screenshot-4.png)
 
+  ## Credits
+  Akash. (2016, November 25). *A Beginners Guide to writing a Kickass README*. Medium. [https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3](https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).
+
+  [Inquirer.js](https://www.npmjs.com/package/inquirer)
+
+  [Node.js](https://nodejs.org/en/)
+
   ## Questions 
   [github.com/kaylab78](https://github.com/kaylab78)
